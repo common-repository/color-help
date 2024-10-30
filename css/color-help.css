@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+a#contextual-help-link.show-settings {
+	color: #006600;
+	font-weight: bold;
+}
+#contextual-help-link-wrap {
+	background-color: #dff0d8;
+}
